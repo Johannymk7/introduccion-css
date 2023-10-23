@@ -1,0 +1,21 @@
+.container {
+    background-color: saddlebrown;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-container {
+    background-color: aqua;
+    width: fit-content;
+
+}
+
+.list-container li {
+    width: 10rem;
+    background-color: tomato;
+    color: red;
+    padding: 0.5rem;
+    margin: 0.5rem;
+
+}
